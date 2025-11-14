@@ -14,7 +14,7 @@ body {
     background-color: black;
     margin: 0;
     color: #f8fafc;
-    background-image: url("figures/bgpic.jpg");
+    background-image: url("bgpic.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* keeps it still while scrolling */
@@ -203,4 +203,5 @@ a{
 .linkedin-icon-btn .icon {
     width: 30px;
     height: 30px;
+
 }
