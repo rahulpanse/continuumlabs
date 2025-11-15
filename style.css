@@ -248,3 +248,15 @@ a{
 .site-footer p {
     margin: 5px 0;
 }
+
+.socials img,
+.socials .icon {
+    width: 32px;      
+    height: 32px;
+    object-fit: contain;
+    display: inline-block;
+}
+.socials a {
+    display: inline-block;
+    margin: 0 8px;
+}
