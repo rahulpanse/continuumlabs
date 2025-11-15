@@ -14,7 +14,7 @@ body {
     background-color: black;
     margin: 0;
     color: #f8fafc;
-    background-image: url("./figures/bgpic.jpg");
+    background-image: url("figures/bgpic.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* keeps it still while scrolling */
@@ -203,8 +203,8 @@ a{
 .linkedin-icon-btn .icon {
     width: 30px;
     height: 30px;
-
 }
+
 .socials-section {
     text-align: center;
     padding: 60px 20px;
@@ -248,13 +248,3 @@ a{
 .site-footer p {
     margin: 5px 0;
 }
-/* Almost there :) */
-/* 
-===============================================
-👋 Hey there, curious explorer!
-You've found Continuum Labs' secret CSS note.
-
-"If you can read this, you're part of the research team now."
-- Rahul ⚛️
-===============================================
-*/
