@@ -205,6 +205,56 @@ a{
     height: 30px;
 
 }
+.socials-section {
+    text-align: center;
+    padding: 60px 20px;
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(4px);
+}
 
+.socials-section h2 {
+    font-size: 2.4rem;
+    margin-bottom: 25px;
+    color: #f0f0f0;
+}
 
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
 
+.social-icons img {
+    width: 45px;
+    height: 45px;
+    opacity: 0.85;
+    transition: 0.3s ease;
+}
+
+.social-icons img:hover {
+    opacity: 1;
+    transform: scale(1.12);
+}
+
+.site-footer {
+    text-align: center;
+    padding: 25px;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ccc;
+    font-size: 0.95rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.site-footer p {
+    margin: 5px 0;
+}
+/* Almost there :) */
+/* 
+===============================================
+👋 Hey there, curious explorer!
+You've found Continuum Labs' secret CSS note.
+
+"If you can read this, you're part of the research team now."
+- Rahul ⚛️
+===============================================
+*/
